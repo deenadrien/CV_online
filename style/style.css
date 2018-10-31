@@ -1,0 +1,98 @@
+body{
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 75px;
+}
+
+h5{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.belize-hole {
+    background: #2980b9;
+    color: #ecf0f1;
+    padding: 10%;
+}
+
+.midnight-blue {
+    background: #2c3e50;
+    color: #bdc3c7;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.wet-asphalt{
+    background: #34495e;
+    color: #bdc3c7;
+    padding-top: 5%;
+    
+}
+
+.green-sea{
+    background: #16a085;
+    color: #bdc3c7;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+
+.pomegranate{
+    background: #c0392b;
+    color: #bdc3c7;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+
+.nephritis {
+    background: #3c6382;
+    color: #bdc3c7;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+}
+
+.school-graduation{
+    margin-top: 2%;
+}
+
+.professionnal-career{
+    margin-top: 2%;
+}
+
+.label-loisirs{
+    font-size: 40px;
+}
+
+#school-graduations{
+    padding-top: 3%;
+}
+
+#presentation-title{
+    margin-bottom: 3%;
+}
+
+#presentation-text{
+    padding: 3%;
+}
+
+#professionnal-career{
+    padding-top: 3%;
+}
+
+#hobbies-title{
+    margin-bottom: 3%;
+}
+
+#skills-title{
+    margin-bottom: 3%;
+}
