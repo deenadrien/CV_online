@@ -57,8 +57,13 @@ h5{
     background: #3c6382;
     color: #bdc3c7;
     padding-top: 5%;
-    padding-left: 5%;
-    padding-bottom: 5%;
+    padding-bottom: 2%;
+}
+
+.dupain{
+    background: #60a3bc;
+    color: #0a3d62;
+    padding-top: 1%;
 }
 
 .school-graduation{
@@ -71,6 +76,10 @@ h5{
 
 .label-loisirs{
     font-size: 40px;
+}
+
+.progress{
+    margin-bottom: 10%;
 }
 
 #school-graduations{
@@ -95,4 +104,8 @@ h5{
 
 #skills-title{
     margin-bottom: 3%;
+}
+
+#copyright{
+    font-size: 100%;
 }
